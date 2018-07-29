@@ -1,0 +1,6 @@
+# windows sucks -> different encoding -> .gitignore stopped working
+
+**/.idea
+**/playground
+**/venv
+

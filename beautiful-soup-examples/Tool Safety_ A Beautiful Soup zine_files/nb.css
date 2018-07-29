@@ -1,0 +1,252 @@
+body { 
+    background-color: white;
+    text: black;
+    vlink: purple;
+    alink: red;
+    link: blue;
+    margin: 10px 3% 0 3%;
+}
+
+.XMLSyndicationButton { 
+    background: #ff6600;
+    color: white !important;   
+    border-left:   1px solid #ff9a57;
+    border-top:    1px solid #ffc8a4;
+    border-right:  1px solid #7d3302;
+    border-bottom: 1px solid #3f1a01;
+    padding: 0px 0.5em 0px 0.5em;
+    font-family: helvetica, arial, sans-serif;
+    font-weight: bold;
+    font-size: small;
+    text-decoration: none; 
+}
+.XMLSyndicationButton:hover { background: #ff9900; }
+
+.TXTSyndicationButton { 
+    background: #009900;
+    color: white !important;
+    border-left:   1px solid #00CC00;
+    border-top:    1px solid #00FF00;
+    border-right:  1px solid #006600;
+    border-bottom: 1px solid #003300;
+    padding: 0px 0.5em 0px 0.5em;
+    font-family: helvetica, arial, sans-serif;
+    font-weight: bold;
+    font-size: small;
+    text-decoration: none; 
+}
+.TXTSyndicationButton:hover { background: #00cc00; }
+
+.ESFSyndicationButton {
+    background: #330099;
+    color: white !important;
+    border-left:   1px solid #6601CC;
+    border-top:    1px solid #6600FF;
+    border-right:  1px solid #330066;
+    border-bottom: 1px solid #330033;
+    padding: 0px 0.5em 0px 0.5em;
+    font-family: helvetica, arial, sans-serif;
+    font-weight: bold;
+    font-size: small;
+    text-decoration: none; }
+.ESFSyndicationButton:hover { background: #6600cc; }
+
+h1.heading {
+	/* Used to display page headings (eg. "Search results", "[Notebook] for [date]") */
+  font-weight: bold;
+  font-size: large;
+  text-decoration: none;
+}
+
+h3.status {
+  /* Used to display status messages (eg. "Entry added.") */
+}
+
+p.alert {
+	/* Used to display alerts (eg. "No entries") */
+  color: red;
+  font-weight: bold;
+  font-size: larger;
+}
+
+span.validationErrors {
+  color: red;
+  font-weight: bold;
+  font-size: larger;  
+}
+
+ol.validationErrorList {
+}
+
+li.validationError {
+  list-style-type:hebrew
+}
+
+a.nav {
+   /* Used when rendering date navigation bars */
+   text-decoration: none;
+}
+
+.controlPanel td {
+    white-space: nowrap;
+}
+
+/* Entry rendering. */
+
+.entryAuthor {
+	/* Used to display the name of the author of a particular
+  	   NewsBruiser entry */
+   font-weight: bold;
+}
+
+a.permalink {
+	/* Used to display the link to a particular NewsBruiser entry */
+   text-decoration: none
+}
+    
+.entryDate { 
+	/* Used to display the date of a NewsBruiser entry */
+    font-weight: bold;
+    color: 007700
+}
+
+.entryTitle {
+   font-weight: bold;
+   color: 444444;
+	/* Used to display the text of a NewsBruiser entry */
+}
+
+.entryText {
+	/* Used to display the text of a NewsBruiser entry */
+}
+
+.entry { 
+    /* Overarching properties for a NewsBruiser entry. */
+    margin: 0 2% 0 2%;
+}
+
+/* Entry alternation wackiness */
+
+.entry2 { 
+    /*Set your entry template to wrap entries in '<p class="entry%2">';
+      and the first, third, fifth, etc. entries in a list will be of class
+      entry while the second, fourth, sixth, etc. entries will be of
+      class entry2. See the template document for more details.*/
+    background-color: FFFFEE;
+}
+
+li {
+	/*I think list items should have a little whitespace between them.*/
+	margin-bottom:5px;
+}
+
+/* Index */
+
+.notebookPanel {
+	/* Used to display a notebook's panel. */
+}
+
+.notebookHead {
+	/* Used to display the notebook's name and mantainer. */
+	color:005500;
+}
+
+.notebookSubhead {
+	/* Used to display the notebook's description. */
+	text-align:center;
+	border-width:1;
+	border-style:dotted;
+}
+
+.calendarSubpanel {
+	/* Used to display the panel containing the calendar */
+	background-color:F0F0F0;
+}
+
+.entrySubpanel {
+	/* Used to display the panel containing the most recent entry */
+	background-color:F0F0F0;
+}
+
+.linkSubpanel {
+	/* Used to display the panel containing links to the CGIs for a
+           notebook. */
+	background-color:EEEEEE;
+}
+
+/* Categories */
+
+
+.entryCategories {
+	/* Used to display the "Filed under:" introductory text for an entry. */
+}
+
+.entryCategory {
+    /* Used to display the linked name of a category under which an entry
+       is filed. */
+}
+
+.categoryDescription {
+    /* Used to display a category's description. */
+    background-color:DDFFDD
+}
+
+/* Configuration */
+
+.optionNamePanel {
+    /* Used to display the panel containing the name of an option.*/
+    background-color: cccc99;
+    font-weight: bold;
+}
+
+/* Calendar */
+
+.calendarMonthName {
+	/* Used to display the month and year. */
+   font-size: normal;
+   font-weight: bold;   
+   text-align: center;
+}
+
+.calendarDayOfWeek {
+	/* Used to display the name of days of the week. */
+   font-size: small;
+   font-weight: normal;  
+}
+
+.calendarDate {
+	/* Used to display the a date (possibly linked to the list of
+	entries for that date) */
+   font-size: small;
+   font-weight: normal;  
+}
+
+/* Trackback */
+
+.trackback {
+    background-color:EEEEEE;
+}
+
+/* Comments */
+.commentHeader {
+    background-color:EEEEEE;
+}
+
+/* Licensing */
+.licenseText {
+    font-size:small;
+}
+
+/* Today In History */
+
+.yearsAgo {
+	/* Used to display the "n years ago:" header */
+}
+
+.historicEntryText {
+	/* Used to display the first portion of an historic entry */
+    font-style: italic;
+}
+
+    
+
