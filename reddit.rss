@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><category term="buildapcsales" label="r/buildapcsales"/>
+  <updated>2018-09-06T23:44:03+00:00</updated>
+  <icon>https://www.redditstatic.com/icon.png/</icon>
+  <id>/r/buildapcsales/.rss</id><link rel="self" href="https://www.reddit.com/r/buildapcsales/.rss" type="application/atom+xml"/><link rel="alternate" href="https://www.reddit.com/r/buildapcsales/" type="text/html"/>
+  <logo>https://b.thumbs.redditmedia.com/WUl3iaGozszFOXn5ni_4ng2y-oIlUYaMqf3iz4RaFFM.png</logo>
+  <subtitle>A community for links to products that are on sale at various websites. Monitors, cables, processors, video cards, fans, cooling, cases, accessories, anything for a PC build.</subtitle>
+  <title>つ ◕_◕ ༽つ Low prices take my energy つ ◕_◕ ༽つ</title>
+  <entry>
+    <author>
+      <name>/u/lovetape</name>
+      <uri>https://www.reddit.com/user/lovetape</uri>
+    </author><category term="buildapcsales" label="r/buildapcsales"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;On Monday Aug 20, Nvidia officially released data on their new 2080 series of GPUs&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Pre-orders are now available&lt;/strong&gt; for the
+      2080 Founders Edition ($799) and the 2080 ti Founders Edition ($1,199) &lt;em&gt;Estimated ship date is Sept. 20&lt;/em&gt;.&lt;/p&gt; &lt;p&gt;The 2070 is not currently available for pre-order. &lt;em&gt;Expected to be available in
+      October.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Still waiting on benchmarks; at this time, there is no confirmed performance reviews to compare the new 2080 series to the existing 1080 GPUs. &lt;/p&gt; &lt;table&gt;&lt;thead&gt; &lt;tr&gt; &lt;th
+      align=&quot;right&quot;&gt;Card&lt;/th&gt; &lt;th align=&quot;center&quot;&gt;RTX 2080 Ti FE&lt;/th&gt; &lt;th align=&quot;center&quot;&gt;RTX 2080 Ti &lt;em&gt;Reference Specs&lt;/em&gt;&lt;/th&gt; &lt;th align=&quot;center&quot;&gt;RTX 2080
+      FE&lt;/th&gt; &lt;th align=&quot;center&quot;&gt;RTX 2080 &lt;em&gt;Reference Specs&lt;/em&gt;&lt;/th&gt; &lt;th align=&quot;center&quot;&gt;RTX 2070 FE&lt;/th&gt; &lt;th align=&quot;center&quot;&gt;RTX 2070 &lt;em&gt;Reference
+      Specs&lt;/em&gt;&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt;&lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;right&quot;&gt;Price&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;$1,199&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;-&lt;/td&gt; &lt;td
+      align=&quot;center&quot;&gt;$799&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;-&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;$599&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
+      align=&quot;right&quot;&gt;CUDA Cores&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;4352&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;4352&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;2944&lt;/td&gt; &lt;td
+      align=&quot;center&quot;&gt;2944&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;2304&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;2304&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;right&quot;&gt;Boost Clock&lt;/td&gt; &lt;td
+      align=&quot;center&quot;&gt;1635MHz (OC)&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;1545MHz&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;1800MHz (OC)&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;1710MHz&lt;/td&gt; &lt;td
+      align=&quot;center&quot;&gt;1710MHz(OC)&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;1620MHz&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;right&quot;&gt;Base Clock&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;1350MHz&lt;/td&gt; &lt;td
+      align=&quot;center&quot;&gt;1350MHz&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;1515MHz&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;1515MHz&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;1410MHz&lt;/td&gt; &lt;td
+      align=&quot;center&quot;&gt;1410MHz&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;right&quot;&gt;Memory&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;11GB GDDR6&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;11GB GDDR6&lt;/td&gt; &lt;td
+      align=&quot;center&quot;&gt;8GB GDDR6&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;8GB GDDR6&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;8GB GDDR6&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;8GB GDDR6&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
+      align=&quot;right&quot;&gt;USB Type-C and VirtualLink&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt; &lt;td
+      align=&quot;center&quot;&gt;Yes&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;right&quot;&gt;Maximum Resolution&lt;/td&gt; &lt;td
+      align=&quot;center&quot;&gt;7680x4320&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;7680x4320&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;7680x4320&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;7680x4320&lt;/td&gt; &lt;td
+      align=&quot;center&quot;&gt;7680x4320&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;7680x4320&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;right&quot;&gt;Connectors&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;DisplayPort, HDMI, USB
+      Type-C&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;-&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;DisplayPort, HDMI, USB Type-C&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;DisplayPort, HDMI&lt;/td&gt; &lt;td
+      align=&quot;center&quot;&gt;DisplayPort, HDMI, USB Type-C&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;right&quot;&gt;Graphics Card Power&lt;/td&gt; &lt;td
+      align=&quot;center&quot;&gt;260W&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;250W&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;225W&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;215W&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;175W&lt;/td&gt;
+      &lt;td align=&quot;center&quot;&gt;185W&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt;&lt;/table&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/lovetape&quot;&gt; /u/lovetape &lt;/a&gt;
+      &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/buildapcsales/comments/98cgwg/gpu_nvidia_rtx_2080_gpu_series_info/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a
+      href=&quot;https://www.reddit.com/r/buildapcsales/comments/98cgwg/gpu_nvidia_rtx_2080_gpu_series_info/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_98cgwg</id><link href="https://www.reddit.com/r/buildapcsales/comments/98cgwg/gpu_nvidia_rtx_2080_gpu_series_info/"/>
+    <updated>2018-08-18T15:27:28+00:00</updated>
+    <title>[GPU] Nvidia RTX 2080 GPU Series Info</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Bobnish</name>
+      <uri>https://www.reddit.com/user/Bobnish</uri>
+    </author><category term="buildapcsales" label="r/buildapcsales"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Bobnish&quot;&gt; /u/Bobnish &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a
+      href=&quot;https://www.newegg.com/Product/Product.aspx?Item=9SIAHJM7WJ4810&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a
+      href=&quot;https://www.reddit.com/r/buildapcsales/comments/9dj79p/monitor_insignia_nspmg248_24_1ms_144hz_1920x1080/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_9dj79p</id><link href="https://www.reddit.com/r/buildapcsales/comments/9dj79p/monitor_insignia_nspmg248_24_1ms_144hz_1920x1080/"/>
+    <updated>2018-09-06T14:34:38+00:00</updated>
+    <title>[Monitor] Insignia NS-PMG248 24&quot; 1ms 144Hz 1920x1080 - $129.99 ($249.99 - $120.00)</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/nBob20</name>
+      <uri>https://www.reddit.com/user/nBob20</uri>
+    </author><category term="buildapcsales" label="r/buildapcsales"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/nBob20&quot;&gt; /u/nBob20 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a
+      href=&quot;https://www.amazon.com/dp/B07997QV4Z/ref=cm_sw_r_cp_apa_QDsKBbFAA1VKB&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a
+      href=&quot;https://www.reddit.com/r/buildapcsales/comments/9difcj/sdd_silicon_power_512gb_ssd_3d_nand_a55_slc_cache/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_9difcj</id><link href="https://www.reddit.com/r/buildapcsales/comments/9difcj/sdd_silicon_power_512gb_ssd_3d_nand_a55_slc_cache/"/>
+    <updated>2018-09-06T13:12:37+00:00</updated>
+    <title>[SDD] Silicon Power 512GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5&quot; 7mm (0.28&quot;) Internal Solid State Drive (SP512GBSS3A55S25) - $74.99</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/mananddoor</name>
+      <uri>https://www.reddit.com/user/mananddoor</uri>
+    </author><category term="buildapcsales" label="r/buildapcsales"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/mananddoor&quot;&gt; /u/mananddoor &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a
+      href=&quot;http://www.newegg.com/Product/Product.aspx?Item=0JC-000D-005B1&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a
+      href=&quot;https://www.reddit.com/r/buildapcsales/comments/9dh6nq/monitor_lg_electronics_38cb99w_38_curved/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_9dh6nq</id><link href="https://www.reddit.com/r/buildapcsales/comments/9dh6nq/monitor_lg_electronics_38cb99w_38_curved/"/>
+    <updated>2018-09-06T10:34:46+00:00</updated>
+    <title>[Monitor] LG Electronics 38CB99-W 38&quot; Curved UltraWide Monitor, 3840X1600 UW-QHD, 21:9 IPS $750 58% off list price (sale + promo code EMCPYPV58)</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/ZL580</name>
+      <uri>https://www.reddit.com/user/ZL580</uri>
+    </author><category term="buildapcsales" label="r/buildapcsales"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ZL580&quot;&gt; /u/ZL580 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a
+      href=&quot;https://www.amazon.com/Logitech-Lag-Free-Wireless-Gaming-Mouse/dp/B00E4MQODC/ref=sr_1_2?s=videogames&amp;amp;ie=UTF8&amp;amp;qid=1536255678&amp;amp;sr=1-2&amp;amp;keywords=G603&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32;
+      &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/buildapcsales/comments/9dl160/mouse_logitech_g602_gaming_mouse_3617_prime_free/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_9dl160</id><link href="https://www.reddit.com/r/buildapcsales/comments/9dl160/mouse_logitech_g602_gaming_mouse_3617_prime_free/"/>
+    <updated>2018-09-06T17:42:26+00:00</updated>
+    <title>[Mouse] Logitech G602 gaming mouse - $36.17 (Prime, free one day shipping)</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Geltez</name>
+      <uri>https://www.reddit.com/user/Geltez</uri>
+    </author><category term="buildapcsales" label="r/buildapcsales"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Geltez&quot;&gt; /u/Geltez &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a
+      href=&quot;https://www.newegg.com/Product/Product.aspx?Item=N82E16824011162&amp;amp;utm_medium=Email&amp;amp;utm_source=IGNEFL090618&amp;amp;cm_mmc=EMC-IGNEFL090618-_-EMC-090618-Index-_-GamingMonitors-_-24011162-S0H&amp;amp;ignorebbr=1&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/buildapcsales/comments/9di4xc/monitor_acer_24_curved_144hz_freesync_va_no_vesa/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_9di4xc</id><link href="https://www.reddit.com/r/buildapcsales/comments/9di4xc/monitor_acer_24_curved_144hz_freesync_va_no_vesa/"/>
+    <updated>2018-09-06T12:41:02+00:00</updated>
+    <title>[Monitor] Acer 24&quot; Curved 144hz Freesync VA (No VESA) - $159.99 ($179.99 - $20 Promo)</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/ctrlwarrior1</name>
+      <uri>https://www.reddit.com/user/ctrlwarrior1</uri>
+    </author><category term="buildapcsales" label="r/buildapcsales"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ctrlwarrior1&quot;&gt; /u/ctrlwarrior1 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a
+      href=&quot;https://www.newegg.com/Product/ComboBundleDetails.aspx?ItemList=Combo.3860533&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a
+      href=&quot;https://www.reddit.com/r/buildapcsales/comments/9dksrm/cpu_mb_mem_i78700k_asus_prime_z370_corsair_rgb/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_9dksrm</id><link href="https://www.reddit.com/r/buildapcsales/comments/9dksrm/cpu_mb_mem_i78700k_asus_prime_z370_corsair_rgb/"/>
+    <updated>2018-09-06T17:20:02+00:00</updated>
+    <title>[CPU + MB + MEM] i7-8700K + ASUS PRIME Z370 + CORSAIR RGB Pro 16GB $711.97-$111.98 = $599.99</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/ctrlwarrior1</name>
+      <uri>https://www.reddit.com/user/ctrlwarrior1</uri>
+    </author><category term="buildapcsales" label="r/buildapcsales"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ctrlwarrior1&quot;&gt; /u/ctrlwarrior1 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a
+      href=&quot;https://www.newegg.com/Product/ComboBundleDetails.aspx?ItemList=Combo.3860209&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a
+      href=&quot;https://www.reddit.com/r/buildapcsales/comments/9dku2f/cpu_mb_mem_i58600k_msi_z370_gaming_m5_corsair/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_9dku2f</id><link href="https://www.reddit.com/r/buildapcsales/comments/9dku2f/cpu_mb_mem_i58600k_msi_z370_gaming_m5_corsair/"/>
+    <updated>2018-09-06T17:23:26+00:00</updated>
+    <title>[CPU + MB + MEM] i5-8600K + MSI Z370 GAMING M5 + CORSAIR 16GB $614.97-$114.98=$499.99</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/v_acat_v</name>
+      <uri>https://www.reddit.com/user/v_acat_v</uri>
+    </author><category term="buildapcsales" label="r/buildapcsales"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/v_acat_v&quot;&gt; /u/v_acat_v &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a
+      href=&quot;https://www.newegg.com/Product/Product.aspx?Item=N82E16817438060&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a
+      href=&quot;https://www.reddit.com/r/buildapcsales/comments/9dmpuh/psu_evga_750w_80_gold_semi_modular_evga_power/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_9dmpuh</id><link href="https://www.reddit.com/r/buildapcsales/comments/9dmpuh/psu_evga_750w_80_gold_semi_modular_evga_power/"/>
+    <updated>2018-09-06T20:28:58+00:00</updated>
+    <title>[PSU] EVGA 750W 80+ GOLD Semi Modular EVGA Power Supply $69.99 ($49.99 after rebate)</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/K3yboard</name>
+      <uri>https://www.reddit.com/user/K3yboard</uri>
+    </author><category term="buildapcsales" label="r/buildapcsales"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/buildapcsales/comments/9dmr4m/ups_apc_1080va_battery_backup_ups_10000mah_power/&quot;&gt; &lt;img
+      src=&quot;https://b.thumbs.redditmedia.com/_PwTQx40rWeLMSy4zUgPnFLin2tB3_mbfcBKctSnTdE.jpg&quot; alt=&quot;[UPS] APC: 1080VA Battery Backup UPS + 10000mAh Power Pack - $80 ($100 - $20 coupon clip + free power pack + free shipping)&quot;
+      title=&quot;[UPS] APC: 1080VA Battery Backup UPS + 10000mAh Power Pack - $80 ($100 - $20 coupon clip + free power pack + free shipping)&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a
+      href=&quot;https://www.reddit.com/user/K3yboard&quot;&gt; /u/K3yboard &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.bhphotovideo.com/c/product/1381324-REG/apc_power_saving_back_ups_bn1080g.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/buildapcsales/comments/9dmr4m/ups_apc_1080va_battery_backup_ups_10000mah_power/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <id>t3_9dmr4m</id><link href="https://www.reddit.com/r/buildapcsales/comments/9dmr4m/ups_apc_1080va_battery_backup_ups_10000mah_power/"/>
+    <updated>2018-09-06T20:32:26+00:00</updated>
+    <title>[UPS] APC: 1080VA Battery Backup UPS + 10000mAh Power Pack - $80 ($100 - $20 coupon clip + free power pack + free shipping)</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/generic_reference</name>
+      <uri>https://www.reddit.com/user/generic_reference</uri>
+    </author><category term="buildapcsales" label="r/buildapcsales"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/generic_reference&quot;&gt; /u/generic_reference &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a
+      href=&quot;https://www.newegg.com/Product/Product.aspx?Item=N82E16814202280&amp;amp;cm_re=rx_580_nitro%2b-_-14-202-280-_-Product&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a
+      href=&quot;https://www.reddit.com/r/buildapcsales/comments/9djrlh/gpu_sapphire_nitro_rx_580_8gb_24999_includes_game/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_9djrlh</id><link href="https://www.reddit.com/r/buildapcsales/comments/9djrlh/gpu_sapphire_nitro_rx_580_8gb_24999_includes_game/"/>
+    <updated>2018-09-06T15:34:29+00:00</updated>
+    <title>[GPU] Sapphire Nitro+ RX 580 8GB- $249.99 (Includes Game Bundle)</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Irideae</name>
+      <uri>https://www.reddit.com/user/Irideae</uri>
+    </author><category term="buildapcsales" label="r/buildapcsales"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Irideae&quot;&gt; /u/Irideae &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a
+      href=&quot;https://www.newegg.com/Product/Product.aspx?item=N82E16823126513&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a
+      href=&quot;https://www.reddit.com/r/buildapcsales/comments/9dlg6q/keyboard_logitech_g810_orion_spectrum_rgb/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_9dlg6q</id><link href="https://www.reddit.com/r/buildapcsales/comments/9dlg6q/keyboard_logitech_g810_orion_spectrum_rgb/"/>
+    <updated>2018-09-06T18:21:36+00:00</updated>
+    <title>[Keyboard] Logitech G810 Orion Spectrum RGB Mechanical Keyboard Romer - G Switch - Mass Effect Andromeda Edition - $79.99 ($99.99 - $20 w/Promo)</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Isaiah7300</name>
+      <uri>https://www.reddit.com/user/Isaiah7300</uri>
+    </author><category term="buildapcsales" label="r/buildapcsales"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Isaiah7300&quot;&gt; /u/Isaiah7300 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a
+      href=&quot;https://www.newegg.com/Product/Product.aspx?Item=0JC-000D-005B0&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a
+      href=&quot;https://www.reddit.com/r/buildapcsales/comments/9dkzq1/monitor_lg_27mu58b_black_27_ips_gtg_5ms_lcd_3840/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_9dkzq1</id><link href="https://www.reddit.com/r/buildapcsales/comments/9dkzq1/monitor_lg_27mu58b_black_27_ips_gtg_5ms_lcd_3840/"/>
+    <updated>2018-09-06T17:38:38+00:00</updated>
+    <title>[Monitor] LG 27MU58-B Black 27&quot; IPS (GTG) 5ms LCD 3840 x 2160, UHD 4K FreeSync Technology VESA Mountable Black Equalizer Dual Controller ($500 - $200 - additional $50 instant with promo code EMCPYPV59)</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Robot3RK</name>
+      <uri>https://www.reddit.com/user/Robot3RK</uri>
+    </author><category term="buildapcsales" label="r/buildapcsales"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Robot3RK&quot;&gt; /u/Robot3RK &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a
+      href=&quot;https://www.newegg.com/Product/Product.aspx?Item=N82E16826509124&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a
+      href=&quot;https://www.reddit.com/r/buildapcsales/comments/9do0ps/vr_lenovo_explorer_with_controllers_17999/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_9do0ps</id><link href="https://www.reddit.com/r/buildapcsales/comments/9do0ps/vr_lenovo_explorer_with_controllers_17999/"/>
+    <updated>2018-09-06T22:44:32+00:00</updated>
+    <title>[VR] Lenovo Explorer with Controllers $179.99</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/bgunn925</name>
+      <uri>https://www.reddit.com/user/bgunn925</uri>
+    </author><category term="buildapcsales" label="r/buildapcsales"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/buildapcsales/comments/9dobsz/monitor_viewsonic_xg2703gs_27_1440p_165hz_gsync/&quot;&gt; &lt;img
+      src=&quot;https://b.thumbs.redditmedia.com/1li0fz0it4K_S5eL5aEJVSMdH-NPL45q7eyGIihnkXI.jpg&quot; alt=&quot;[Monitor] ViewSonic XG2703-GS 27&amp;quot; 1440p 165Hz G-Sync Monitor REFURB GRADE C - $349.99&quot; title=&quot;[Monitor] ViewSonic XG2703-GS
+      27&amp;quot; 1440p 165Hz G-Sync Monitor REFURB GRADE C - $349.99&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/bgunn925&quot;&gt; /u/bgunn925 &lt;/a&gt; &lt;br/&gt;
+      &lt;span&gt;&lt;a href=&quot;https://www.ebay.com/itm/ViewSonic-XG2703-GS-27-WQHD-Widescreen-Monitor-C-Grade-Refurbished/223058189637?epid=23011377125&amp;amp;hash=item33ef4ddd45:g:jfYAAOSwT2pbR5sP&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32;
+      &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/buildapcsales/comments/9dobsz/monitor_viewsonic_xg2703gs_27_1440p_165hz_gsync/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <id>t3_9dobsz</id><link href="https://www.reddit.com/r/buildapcsales/comments/9dobsz/monitor_viewsonic_xg2703gs_27_1440p_165hz_gsync/"/>
+    <updated>2018-09-06T23:18:41+00:00</updated>
+    <title>[Monitor] ViewSonic XG2703-GS 27&quot; 1440p 165Hz G-Sync Monitor REFURB GRADE C - $349.99</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/ctrlwarrior1</name>
+      <uri>https://www.reddit.com/user/ctrlwarrior1</uri>
+    </author><category term="buildapcsales" label="r/buildapcsales"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ctrlwarrior1&quot;&gt; /u/ctrlwarrior1 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a
+      href=&quot;https://www.newegg.com/Product/ComboBundleDetails.aspx?ItemList=Combo.3860211&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a
+      href=&quot;https://www.reddit.com/r/buildapcsales/comments/9dkuit/cpu_mb_i38100_msi_b360m_gaming_plus/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_9dkuit</id><link href="https://www.reddit.com/r/buildapcsales/comments/9dkuit/cpu_mb_i38100_msi_b360m_gaming_plus/"/>
+    <updated>2018-09-06T17:24:39+00:00</updated>
+    <title>[CPU + MB] i3-8100 + MSI B360M GAMING PLUS $199.98-$29.99-$20MIR=$149.99</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Middcore</name>
+      <uri>https://www.reddit.com/user/Middcore</uri>
+    </author><category term="buildapcsales" label="r/buildapcsales"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/buildapcsales/comments/9dl7fu/external_hdd_western_digital_elements_4tb_7197/&quot;&gt; &lt;img
+      src=&quot;https://b.thumbs.redditmedia.com/-R_QqDa9bzmEM99P1PL_8zZnNNL86RTKkmEWEKHZeeE.jpg&quot; alt=&quot;[External HDD] Western Digital Elements 4TB - $71.97 (GameStop)&quot; title=&quot;[External HDD] Western Digital Elements 4TB - $71.97
+      (GameStop)&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Middcore&quot;&gt; /u/Middcore &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a
+      href=&quot;https://www.gamestop.com/accessories/western-digital-elements-4tb-storage-drive/132820&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a
+      href=&quot;https://www.reddit.com/r/buildapcsales/comments/9dl7fu/external_hdd_western_digital_elements_4tb_7197/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <id>t3_9dl7fu</id><link href="https://www.reddit.com/r/buildapcsales/comments/9dl7fu/external_hdd_western_digital_elements_4tb_7197/"/>
+    <updated>2018-09-06T17:59:07+00:00</updated>
+    <title>[External HDD] Western Digital Elements 4TB - $71.97 (GameStop)</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Etheriia</name>
+      <uri>https://www.reddit.com/user/Etheriia</uri>
+    </author><category term="buildapcsales" label="r/buildapcsales"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/buildapcsales/comments/9dgdsj/monitor_acer_kq251q_240hz_245_freesync_monitor/&quot;&gt; &lt;img
+      src=&quot;https://b.thumbs.redditmedia.com/tGmPQOpPyPx-2E8ZhV0PZdEYvPOYeXL8SVZ2YYU8cTk.jpg&quot; alt=&quot;[Monitor] ACER KQ251Q 240hz 24.5&amp;quot; Free-Sync Monitor - $229.99&quot; title=&quot;[Monitor] ACER KQ251Q 240hz 24.5&amp;quot; Free-Sync
+      Monitor - $229.99&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Etheriia&quot;&gt; /u/Etheriia &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a
+      href=&quot;http://www.microcenter.com/product/510224/kg251q-245-full-hd-240hz-hdmi-dp-freesync-gaming-led-monitor&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a
+      href=&quot;https://www.reddit.com/r/buildapcsales/comments/9dgdsj/monitor_acer_kq251q_240hz_245_freesync_monitor/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <id>t3_9dgdsj</id><link href="https://www.reddit.com/r/buildapcsales/comments/9dgdsj/monitor_acer_kq251q_240hz_245_freesync_monitor/"/>
+    <updated>2018-09-06T08:28:24+00:00</updated>
+    <title>[Monitor] ACER KQ251Q 240hz 24.5&quot; Free-Sync Monitor - $229.99</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/xiojqwnko</name>
+      <uri>https://www.reddit.com/user/xiojqwnko</uri>
+    </author><category term="buildapcsales" label="r/buildapcsales"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/xiojqwnko&quot;&gt; /u/xiojqwnko &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a
+      href=&quot;https://www.buydig.com/shop/product/LG24GM79GB/LG-24GM79G-B-24-Widescreen-LED-Gaming-Monitor-1920x1080-144Hz-Refresh-Rate&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a
+      href=&quot;https://www.reddit.com/r/buildapcsales/comments/9dba90/monitor_lg_24gm79gb_24_widescreen_led_gaming/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_9dba90</id><link href="https://www.reddit.com/r/buildapcsales/comments/9dba90/monitor_lg_24gm79gb_24_widescreen_led_gaming/"/>
+    <updated>2018-09-05T21:38:25+00:00</updated>
+    <title>[Monitor] LG 24GM79G-B 24&quot; Widescreen LED Gaming Monitor 1920x1080 144Hz - $129 (Promo code: GAMEBIG)</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/mmkae0</name>
+      <uri>https://www.reddit.com/user/mmkae0</uri>
+    </author><category term="buildapcsales" label="r/buildapcsales"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/mmkae0&quot;&gt; /u/mmkae0 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a
+      href=&quot;https://www.buydig.com/shop/product/LG27GK750FB/LG-27-Full-HD-Gaming-Monitor-1920-x-1080-169-27GK750FB&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a
+      href=&quot;https://www.reddit.com/r/buildapcsales/comments/9de3jx/monitor_27_lg_27gk750fb_1080p_240hz_freesync/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_9de3jx</id><link href="https://www.reddit.com/r/buildapcsales/comments/9de3jx/monitor_27_lg_27gk750fb_1080p_240hz_freesync/"/>
+    <updated>2018-09-06T03:00:24+00:00</updated>
+    <title>[Monitor] 27&quot; LG 27GK750F-B 1080p 240Hz FreeSync Gaming Monitor $259.00 ($396.99 - $137.99 w/ coupon code GAMEBIG)</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Irideae</name>
+      <uri>https://www.reddit.com/user/Irideae</uri>
+    </author><category term="buildapcsales" label="r/buildapcsales"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Irideae&quot;&gt; /u/Irideae &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a
+      href=&quot;https://www.newegg.com/Product/Product.aspx?Item=N82E16824025402&amp;amp;ignorebbr=1&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a
+      href=&quot;https://www.reddit.com/r/buildapcsales/comments/9dfuf6/monitor_lg_22m38db_22_1080p_led_monitor_75hz_5ms/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_9dfuf6</id><link href="https://www.reddit.com/r/buildapcsales/comments/9dfuf6/monitor_lg_22m38db_22_1080p_led_monitor_75hz_5ms/"/>
+    <updated>2018-09-06T07:05:06+00:00</updated>
+    <title>[Monitor] LG 22M38D-B 22&quot; 1080p LED Monitor, 75Hz, 5ms, TN Panel, D-sub/Dvi Only - $64.99 ($79.99 - $15 Promo)</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/AtomicMuff1n</name>
+      <uri>https://www.reddit.com/user/AtomicMuff1n</uri>
+    </author><category term="buildapcsales" label="r/buildapcsales"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AtomicMuff1n&quot;&gt; /u/AtomicMuff1n &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a
+      href=&quot;https://www.newegg.com/Product/Product.aspx?Item=N82E16835103253&amp;amp;utm_medium=Email&amp;amp;utm_source=IGNEFL090618&amp;amp;cm_mmc=EMC-IGNEFL090618-_-EMC-090618-Index-_-CPUFansHeatsinks-_-35103253-S1A10D&amp;amp;ignorebbr=1&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/buildapcsales/comments/9dl0lm/cpu_fan_cooler_master_ma410p_2999_3999_instant_10/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_9dl0lm</id><link href="https://www.reddit.com/r/buildapcsales/comments/9dl0lm/cpu_fan_cooler_master_ma410p_2999_3999_instant_10/"/>
+    <updated>2018-09-06T17:41:01+00:00</updated>
+    <title>[CPU Fan] Cooler Master MA410P - $29.99 ($39.99 instant + $10 MIR)</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/nint_love</name>
+      <uri>https://www.reddit.com/user/nint_love</uri>
+    </author><category term="buildapcsales" label="r/buildapcsales"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/buildapcsales/comments/9df7sp/monitor_lg_34_ultrawide_24999_2560x1080p_75hz_5ms/&quot;&gt; &lt;img
+      src=&quot;https://b.thumbs.redditmedia.com/nvEUcb3t5eW8J0B1L9qpqNQwajvF6eFsdLeKm_Vg7_M.jpg&quot; alt=&quot;[Monitor] LG 34” Ultrawide $249.99, 2560x1080p, 75Hz, 5ms, UNTIL 9/30&quot; title=&quot;[Monitor] LG 34” Ultrawide $249.99, 2560x1080p, 75Hz,
+      5ms, UNTIL 9/30&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/nint_love&quot;&gt; /u/nint_love &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a
+      href=&quot;https://www.costco.com/LG-34UM61-P-34%22-UltraWide-Full-HD-IPS-Monitor-.product.100341675.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a
+      href=&quot;https://www.reddit.com/r/buildapcsales/comments/9df7sp/monitor_lg_34_ultrawide_24999_2560x1080p_75hz_5ms/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <id>t3_9df7sp</id><link href="https://www.reddit.com/r/buildapcsales/comments/9df7sp/monitor_lg_34_ultrawide_24999_2560x1080p_75hz_5ms/"/>
+    <updated>2018-09-06T05:32:59+00:00</updated>
+    <title>[Monitor] LG 34” Ultrawide $249.99, 2560x1080p, 75Hz, 5ms, UNTIL 9/30</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/ctrlwarrior1</name>
+      <uri>https://www.reddit.com/user/ctrlwarrior1</uri>
+    </author><category term="buildapcsales" label="r/buildapcsales"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ctrlwarrior1&quot;&gt; /u/ctrlwarrior1 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a
+      href=&quot;https://www.newegg.com/Product/ComboBundleDetails.aspx?ItemList=Combo.3860207&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a
+      href=&quot;https://www.reddit.com/r/buildapcsales/comments/9dkt5u/cpu_mb_i78086k_asus_rog_maximus_x_hero_wifi_ac/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_9dkt5u</id><link href="https://www.reddit.com/r/buildapcsales/comments/9dkt5u/cpu_mb_i78086k_asus_rog_maximus_x_hero_wifi_ac/"/>
+    <updated>2018-09-06T17:21:09+00:00</updated>
+    <title>[CPU + MB] i7-8086K + ASUS ROG Maximus X Hero (Wi-Fi AC) $684.98-$84.99 = $599.99</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/MionixGaming</name>
+      <uri>https://www.reddit.com/user/MionixGaming</uri>
+    </author><category term="buildapcsales" label="r/buildapcsales"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/buildapcsales/comments/9d6tkz/keyboard_mionix_wei_cherry_mx_red_rgb_mechanical/&quot;&gt; &lt;img
+      src=&quot;https://b.thumbs.redditmedia.com/WCXRJQW2hjhfPbGo_J390GdrA9hlYW44Fr1WY8Zz3po.jpg&quot; alt=&quot;[KEYBOARD] Mionix Wei Cherry MX Red RGB Mechanical Keyboard - $99.99 + FREE SHIPPING ($159.99 -40%)&quot; title=&quot;[KEYBOARD] Mionix Wei
+      Cherry MX Red RGB Mechanical Keyboard - $99.99 + FREE SHIPPING ($159.99 -40%)&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MionixGaming&quot;&gt; /u/MionixGaming &lt;/a&gt;
+      &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;http://www.getmionix.com/wei&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a
+      href=&quot;https://www.reddit.com/r/buildapcsales/comments/9d6tkz/keyboard_mionix_wei_cherry_mx_red_rgb_mechanical/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <id>t3_9d6tkz</id><link href="https://www.reddit.com/r/buildapcsales/comments/9d6tkz/keyboard_mionix_wei_cherry_mx_red_rgb_mechanical/"/>
+    <updated>2018-09-05T14:01:37+00:00</updated>
+    <title>[KEYBOARD] Mionix Wei Cherry MX Red RGB Mechanical Keyboard - $99.99 + FREE SHIPPING ($159.99 -40%)</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/make_moneys</name>
+      <uri>https://www.reddit.com/user/make_moneys</uri>
+    </author><category term="buildapcsales" label="r/buildapcsales"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/make_moneys&quot;&gt; /u/make_moneys &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a
+      href=&quot;https://secure.newegg.com/giftcard/EntryScreen.aspx?type=1&amp;amp;cm_sp=Homepage-Top2016-_-P1_nepro%2f18-2408-_-https%3a%2f%2fpromotions.newegg.com%2fnepro%2f18-2408%2f1920x360.jpg&amp;amp;icid=465004&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;
+      &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/buildapcsales/comments/9d8esg/gift_card_buy_50_newegg_gift_card_get_10/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_9d8esg</id><link href="https://www.reddit.com/r/buildapcsales/comments/9d8esg/gift_card_buy_50_newegg_gift_card_get_10/"/>
+    <updated>2018-09-05T16:49:01+00:00</updated>
+    <title>[Gift Card] Buy $50 newegg gift card get $10 promotional gift card free (limit 3 , promo GC emailed within 3 wks)</title>
+  </entry>
+</feed>
