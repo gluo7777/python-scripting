@@ -1,0 +1,16 @@
+{
+    "Java": {
+        "notes": [
+            "Integers are 32 bits",
+            "build app: mvn clean install"
+        ],
+        "lastModified": "<timestamp>"
+    },
+    "Maven": {
+        "notes": [
+            "run tests: mvn clean verify -DskipTests=\"false\"",
+            "build app: mvn clean install"
+        ],
+        "lastModified": "<timestamp>"
+    }
+}
