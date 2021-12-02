@@ -1,23 +1,27 @@
+from binarytree import Node,build
+
 class MinHeap:
     def __init__(self) -> None:
         self.heap = []
-
-    def parent(self, childIndex: int) -> int:
-        """\
-        Returns index of parent
-        """
-        if childIndex % 2 == 1: # left child
-            return int((childIndex - 1) / 2)
-        else: # right child
-            return int((childIndex - 2) / 2)
-
-    def leftChild(self, parentIndex: int) -> int:
-        index = 2 * parentIndex + 1
-        return index if index < len(self.heap) else -1
-
-    def rightChild(self, parentIndex: int) -> int:
-        index = 2 * parentIndex + 2
-        return index if index < len(self.heap) else -1
+        # helper functions
+        ## left child
+        self.leftChildIndex = lambda i : 2 * i + 1
+        self.leftChild = lambda i : self.heap[self.leftChildIndex(i)]
+        self.hasLeftChild = lambda i : self.leftChildIndex(i) < len(self.heap)
+        ## right child
+        self.rightChildIndex = lambda i : 2 * i + 2
+        self.rightChild = lambda i : self.heap[self.rightChildIndex(i)]
+        self.hasRightChild = lambda i : self.rightChildIndex(i) < len(self.heap)
+        ## parent
+        self.parentIndex = lambda i : int((i - 1) / 2) if i % 2 == 1 else int((i - 2) / 2)
+        self.parent = lambda i : self.heap[self.parentIndex(i)]
+        self.hasParent = lambda i : self.parentIndex(i) >= 0
+    
+    def printTree(self, header: str = None) -> None:
+        binary_tree = build(self.heap)
+        if header:
+            print(header)
+        print(binary_tree)
 
     def swap(self,i: int, j: int) -> None:
         temp = self.heap[i]
@@ -25,38 +29,33 @@ class MinHeap:
         self.heap[j] = temp
 
     def insert(self,val: int) -> None:
-        print(f'Inserting {val} into {self.heap}')
+        print(f'Inserting {val}')
         self.heap.append(val)
         index = len(self.heap) - 1
-        while index != 0 and self.heap[index] < self.heap[self.parent(index)]:
-            self.swap(index,self.parent(index))
-            index = self.parent(index)
-        print(f'Heap after insertion: {self.heap}')
+        while self.hasParent(index) and self.heap[index] < self.parent(index):
+            self.swap(index,self.parentIndex(index))
+            index = self.parentIndex(index)
+        self.printTree('Heap after insertion')
 
     def extract_min(self) -> int:
-        print(f'Removing root element from {self.heap}')
-        if len(self.heap) == 0:
-            raise IndexError('Heap is empty')
-        if len(self.heap) == 1:
-            return self.heap.pop()
-        root = self.heap[0]
-        self.heap[0] = self.heap.pop()
-        nextIndex = 0
-        # while nextIndex < len(self.heap):
-        #     leftChild = self.leftChild(nextIndex)
-        #     if leftChild == -1:
-        #         break
-        #     if self.heap[nextIndex] > self.heap[leftChild]:
-        #         self.swap(nextIndex,leftChild)
-        #     nextIndex = self.rightChild(nextIndex)
-        #     if rightChild == -1:
-        #         break
-        #     if self.heap[nextIndex] > self.heap[rightChild]:
-        #         self.swap(nextIndex,rightChild)
-            
-
-        print(f'Heap after extract_min: {self.heap}')
-        return root
+        return self.delete(0)
+    
+    def delete(self, index: int) -> int:
+        print(f'Deleting element at index: {index}')
+        if index >= len(self.heap):
+            raise IndexError(f'Index ({index}) >= heap size ({len(self.heap)})')
+        node_to_remove = self.heap[index]
+        self.heap[index] = self.heap.pop()
+        while self.hasLeftChild(index):
+            minChild = self.leftChildIndex(index)
+            if self.hasRightChild(index) and self.rightChild(index) < self.leftChild(index):
+                minChild = self.rightChildIndex(index)
+            if self.heap[minChild] >= self.heap[index]:
+                break
+            self.swap(minChild,index)
+            index = minChild
+        self.printTree('Heap after deletion')
+        return node_to_remove
 
 if __name__ == "__main__":
     minheap = MinHeap()
@@ -68,3 +67,10 @@ if __name__ == "__main__":
     minheap.insert(11)
     minheap.insert(-100)
     minheap.insert(4)
+    minheap.printTree('Tree after all insertions')
+    minheap.delete(1)
+    minheap.extract_min()
+    minheap.extract_min()
+    minheap.extract_min()
+    minheap.extract_min()
+    
