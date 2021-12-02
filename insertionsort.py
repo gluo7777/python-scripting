@@ -2,13 +2,15 @@ from typing import List
 
 
 def insertionsort(nums: List[int]) -> None:
-    for i in range(0,len(nums) if nums else 0):
-        for j in range(0,i):
-            if nums[i] <= nums[j]:
-                swap(nums,i,j)
-                for k in range(j + 1,i):
-                    swap(nums,i,k)
-                break
+    if not nums or len(nums) <= 1:
+        return
+    for i in range(1,len(nums)):
+        key = nums[i]
+        j = i - 1
+        while j >= 0 and key < nums[j]:
+            nums[j + 1] = nums[j]
+            j -= 1
+        nums[j + 1] = key
 
 def swap(nums: List[int], i: int, j: int) -> None:
     temp = nums[j]
