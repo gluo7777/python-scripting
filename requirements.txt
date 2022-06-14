@@ -1,1 +1,3 @@
 binarytree
+python-json-logger
+aws-lambda-powertools

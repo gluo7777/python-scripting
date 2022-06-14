@@ -1,0 +1,10 @@
+{
+    "message": "something else went wrong",
+    "exc_info": "Traceback (most recent call last):\n  File \"C:\\Users\\gluo7\\Projects\\PythonScripting\\jsonlogging.py\", line 81, in <module>\n    raise MyException('something went wrong',nested_function=True,sexy=False)\nMyException: something went wrong\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"C:\\Users\\gluo7\\Projects\\PythonScripting\\jsonlogging.py\", line 83, in <module>\n    raise MyException('something else went wrong',payload)\nMyException: something else went wrong",
+    "custom_attribute": 3737844653,
+    "args": [
+        "something else went wrong"
+    ],
+    "timestamp": "2022-03-05T00:51:26.988120Z",
+    "level": "ERROR"
+}

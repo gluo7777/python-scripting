@@ -33,3 +33,16 @@ assert maxheappop(maxheap) == 10
 assert maxheappop(maxheap) == 5
 assert maxheappop(maxheap) == 3
 assert len(maxheap) == 3
+
+# heap with tuples
+
+h = []
+hpush = lambda w,f : heappush(h, (f * -1,w))
+hpop = lambda : heappop(h)[1]
+
+hpush("task1",10)
+hpush("task2",20)
+hpush("task3",5)
+assert hpop() == "task2"
+assert hpop() == "task1"
+assert hpop() == "task3"
